@@ -1,0 +1,26 @@
+.banner {
+  /* padding: .6em; */
+  margin: 1em 0;
+  border-radius: 4px;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  display: flex;
+  align-items: center;
+  padding: 6px 16px;
+}
+
+.banner p {
+  padding: 8px 0px;
+}
+
+.warning {
+  background-color: rgb(253, 237, 237);
+  color: rgb(95, 33, 32);
+}
+
+.info {
+  background-color: rgb(229, 246, 253);
+  color: rgb(1, 67, 97);;
+}

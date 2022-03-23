@@ -1,0 +1,17 @@
+.app {
+  padding: 1em;
+}
+/*
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin: 1em 0;
+} */
+
+@media screen and (min-width: 768px) {
+  .app {
+    margin: 0 auto;
+    max-width: 860px;
+  }
+}

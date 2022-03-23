@@ -1,0 +1,10 @@
+main {
+  margin: 2em 0;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin: 1em 0;
+}
